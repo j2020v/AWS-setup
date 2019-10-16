@@ -25,4 +25,4 @@ scp -i path/to/key_file/to/copy -r <folder> ubuntu@xxx-xx-xxx-xx-xxx.eu-west-2.c
 
 ## Step 3:
 
-- You can now run the <file> / <folder> that you have moved from your local pc in SSH
+- You can now run the file/folder that you have moved from your local pc in SSH and also run tests!
